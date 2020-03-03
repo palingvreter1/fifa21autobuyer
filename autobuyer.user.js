@@ -131,7 +131,7 @@
     window.buyPlayer = function(player, price) {
         services.Item.bid(player, price).observe(this, (function(sender, data){
             if (data.success) {
-                writeToLog(player._staticData.firstName + ' ' + player._staticData.lastName + ' [' + player._auction.tradeId + '] ' + price + ' buyed');
+                writeToLog(player._staticData.firstName + ' ' + player._staticData.lastName + ' [' + player._auction.tradeId + '] ' + price + ' bought');
                 var sellPrice = parseInt(jQuery('#ab_sell_price').val());
                 if (sellPrice !== 0) {
                     writeToLog(' -- Selling for: ' + sellPrice);
