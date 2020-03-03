@@ -1,3 +1,2 @@
-Fut 20 autobuyer by @fut20.autobuyer
+Fut 20 autobuyer by @autobuyer.fifa.20
 Use at own risk 
-Stop at 200 requests and wait 10 minutes for safest use.
