@@ -1,2 +1,2 @@
-Fut 20 autobuyer by @autobuyer.fifa.20
+Fut 21 autobuyer by @autobuyer.fifa.21
 Use at own risk 
